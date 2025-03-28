@@ -4,3 +4,6 @@
 
 # 搜索的时候必须避免的网站
  -bzfxw -softhome -wdfxw -bz39 -jz321 -bzgfw -instrument -bzpt -yunbiaozhun -ndls -freebz -cssn -upbz -bzxz -doc88 -biaozhun -antpedia -renrendoc -book118 -biaozhuns
+
+
+# 发现 https://www.yiqifuwu.com/ 的网页容易下载PDF
